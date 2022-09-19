@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NETHU NIPUNA</h1>
-<h3 align="center">Information Technology Under Graduate at SLIIT</h3>
+<h3 align="center">Information Technology UnderGraduate at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethunipuna7&label=Profile%20views&color=0e75b6&style=flat" alt="nethunipuna7" /> </p>
 
